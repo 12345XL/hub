@@ -2,7 +2,7 @@
 import os  # 操作系统相关功能，用于文件路径操作
 from glob import glob  # 文件路径匹配工具，可以用通配符搜索文件
 import requests  # HTTP请求库，用于发送网络请求
-#abcd
+#abcdef
 # 车辆编号对应表 - 每个列表对应一个车次的车辆编号信息
 # 格式：车厢序号\t车辆编号
 num_list = [
